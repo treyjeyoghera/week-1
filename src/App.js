@@ -23,7 +23,7 @@ function App() {
       
 
       
-      // Add more initial transactions as needed
+      // adding more initial transactions as needed
     ];
     setTransactions(initialTransactions);
   }, []);
